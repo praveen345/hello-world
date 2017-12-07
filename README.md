@@ -1,2 +1,5 @@
 # hello-world
-Github Usage Tutorial
+Hi Guys,
+How about there?
+Just trying to use Github for the first time
+
